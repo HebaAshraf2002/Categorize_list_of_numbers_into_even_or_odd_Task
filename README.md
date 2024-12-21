@@ -1,4 +1,4 @@
-# Categorize_list_of_numbers_into_even_or_odd_Task
+# Categorize_list_of_numbers_into_even_or_odd_Task.
 
 # Overview
   a list of numbers and categorizes each number as even or odd.
