@@ -13,14 +13,6 @@
 
 # How the Code Works?
 1. List Initialization: A list of numbers is created: List<int> Numbers = [10, 8, 3, 11, 4, 5, 9, 2]; .
-2. Iteration Using a Loop: A for loop iterates through the list: for (int i = 0; i < Numbers.length; i++){} .
-3. Checking Even or Odd Using Switch-Case: For each number, the program uses the modulo operator % to check if the number is divisible by 2:
-        switch (Numbers[i] % 2) {
-          case 0:
-            print("${Numbers[i]} is even.");
-            break;
-          case 1:
-            print("${Numbers[i]} is odd.");
-            break;
-        }
+2. Iteration Using a Loop: A for loop iterates through the list.
+3. Checking Even or Odd Using Switch-Case: For each number, the program uses the modulo operator % to check if the number is divisible by 2.
 4. Printing Results: The program prints whether each number in the list is even or odd.
